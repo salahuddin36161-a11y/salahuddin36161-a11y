@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salah Uddin
 
-🎓 Computer Science Student  
+🎓 AI Student  
 🐍 Learning Python Programming  
 💡 Interested in problem solving & open-source  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **Python**
-- 📘 First semester CS student
+- 📘 4th semester AI student
 - 💻 Exploring GitHub & programming basics
 - 🎯 Goal: Become a skilled software developer
 
