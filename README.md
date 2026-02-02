@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Salah Uddin
 
-<!--
-**salahuddin36161-a11y/salahuddin36161-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🐍 Learning Python Programming  
+💡 Interested in problem solving & open-source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Python**
+- 📘 First semester CS student
+- 💻 Exploring GitHub & programming basics
+- 🎯 Goal: Become a skilled software developer
+
+---
+
+## 🛠️ Skills
+- Python (Beginner)
+- Git & GitHub
+- Basic Programming Concepts
+
+---
+
+## 📚 Currently Learning
+- Python basics
+- Loops & functions
+- GitHub workflows
+
+---
+
+## 📫 Contact Me
+- 📧 Email: salahuddin36161@gmail.com
+- 💻 GitHub: [salahuddin36161-a11y](https://github.com/salahuddin36161-a11y)
+
+---
+
+⭐ *Thanks for visiting my profile!*
